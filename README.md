@@ -1,4 +1,4 @@
-# LZAI-nanoGPT 
+# LZAI-Study Notes 
 
 This is a AI learning project that aim to study foundamental of AI
 
