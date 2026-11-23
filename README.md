@@ -10,14 +10,13 @@ This is a AI learning project that aim to study foundamental of AI
 - Train and test Spiking Neuron Networks (SNN)
 - Explore and test OpenWorm (C. elegans) project
 - Explore and test Fruit Fly (Drosophila) Brain Models project
+- Explore Brian 2 project
 
 Explore more AI types other than LLM transformer
 
 ## Env and Project path
 
-The laptop hardware is a GTX970M 6GB GPU, its an old GPU so it running old version of pytorch + cuda 12.4
-
-If using pyTorch, use the venv path: ~/torch_venv, use `source ~/torch_env/bin/activate` to activate venv
+If using pyTorch, use the venv path: ~/torch_venv, use `source ~/torch_env/bin/activate` to activate venv, current it running an older version of pytorch + cuda 12.4
 
 ## Documentation
 
